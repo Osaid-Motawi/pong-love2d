@@ -48,10 +48,10 @@ In addition to the tutorial's core gameplay, I customized the game with:
 
 ## Screenshot
 
-![Pong game screenshot]()
+![Pong game screenshot](https://github.com/Osaid-Motawi/Osaid-Motawi-pong-love2d/blob/main/Screenshot/image.png)
 
 ## Demo Video
 
-[Watch the Pong gameplay demo]()
+[Watch the Pong gameplay demo](https://www.loom.com/share/307f3174042c4edcab13a6131a1dde49)
 
 > Before submitting, save your screenshot as `screenshots/pong-screenshot.png` and your recorded video as `demo/pong-demo.mp4`, or update these links to match your actual filenames.
